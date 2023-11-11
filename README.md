@@ -6,9 +6,9 @@
 🔍 Actively seeking opportunities to gain Professional Experience
 
 
- 📫 How to reach me: denisekiese98@gmail.com 
- 🔭 I’m currently working on 
- 🌱 I’m currently learning Phyton
+- 📫 How to reach me: denisekiese98@gmail.com 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Phyton
 
 
 

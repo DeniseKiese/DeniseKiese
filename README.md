@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: denisekiese98@gmail.com 
 - 🔭 I’m currently working on a website
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Phyton & React 
 
 
 
